@@ -29,7 +29,6 @@
             height: 430px;
             position: relative;
             /* grid-area: left ; */
-            background-color: aqua;
             overflow: hidden;
             display: flex;
             border-radius: 5px;
